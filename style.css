@@ -1,0 +1,26 @@
+
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height:50px;
+    padding-top: 25px;
+    font-family: 'Jua', sans-serif;
+}
+#content{
+    background-image:url("images/커피원두2_waifu2x_photo_noise1_scale_tta_1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 850px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 400px;
+    font-size: x-large;
+    font-family: 'Jua', sans-serif;
+}
+
+h1{
+     font-family: 'Jua', sans-serif;
+}
